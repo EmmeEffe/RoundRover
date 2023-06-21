@@ -1,5 +1,9 @@
 # RoundRover
 Star Wars BB8-style 3D Printed Robot
+
+Designed and developed by [Lorenzo Cicali](), [Ginevra Dazzi](), [Tommaso Matteuzzi @tommasomatt](https://www.github.com/tommasomatt) and [Martino Falorni @EmmeEffe](https://www.github.com/EmmeEffe),
+
+---
 ![rendering](rendering.png)
 
 ## Printing
@@ -20,3 +24,4 @@ Then print the main body with the external ring
 - [Main Body](StlFiles/body.stl)
 - [External Ring](StlFiles/ring.stl)
 - [Bearing Holder](StlFiles/bearingHolder.stl) (print 2 times)
+
