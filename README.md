@@ -1,7 +1,7 @@
 # RoundRover
 Star Wars BB8-style 3D Printed Robot
 
-Designed and developed by [Lorenzo Cicali](), [Ginevra Dazzi](), [Tommaso Matteuzzi @tommasomatt](https://www.github.com/tommasomatt) and [Martino Falorni @EmmeEffe](https://www.github.com/EmmeEffe),
+Designed and developed by [Lorenzo Cicali](https://www.github.com/Lorentz99), [Ginevra Dazzi](https://www.github.com/Gine99), [Tommaso Matteuzzi @tommasomatt](https://www.github.com/tommasomatt) and [Martino Falorni @EmmeEffe](https://www.github.com/EmmeEffe),
 
 ---
 ![rendering](rendering.png)
