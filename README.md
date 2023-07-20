@@ -1,7 +1,7 @@
 # RoundRover
 Star Wars BB8-style 3D Printed Robot
 
-Designed and developed by [Lorenzo Cicali](https://www.github.com/Lorentz99), [Ginevra Dazzi](https://www.github.com/Gine99), [Tommaso Matteuzzi @tommasomatt](https://www.github.com/tommasomatt) and [Martino Falorni @EmmeEffe](https://www.github.com/EmmeEffe),
+Designed and developed by [Lorenzo Cicali](https://www.github.com/Lorentz99), [Ginevra Dazzi](https://www.github.com/Gine99), [Tommaso Matteuzzi](https://www.github.com/tommasomatt) and [Martino Falorni](https://www.github.com/EmmeEffe),
 
 ---
 ![rendering](rendering.png)
@@ -25,3 +25,30 @@ Then print the main body with the external ring
 - [External Ring](StlFiles/ring.stl)
 - [Bearing Holder](StlFiles/bearingHolder.stl) (print 2 times)
 
+## Parts
+- Mechanic Hardware
+  - 2 x plastic semisphere, diameter 200 mm
+  - 1x Metal shaft, 160 mm, 8 mm ø
+  - 2x Metal ball bearing, 8x22x7mm
+  - 1x Transmission belt 2.5T
+  - fishing Lead weights
+  - Neodimium Magnets
+  - bolts and nuts
+  - threaded inserts for 3d prints
+- Electronic Hardware
+  - 9V battery
+  - H-bridge board MX1616H
+  - ESP32 board
+  - IMU system MPU-6050
+  - Servomotor 9g
+  - Gear motor, DC, supply voltage 3-12 Volt, 200 rpm
+
+## Circuit
+We have realized the circuit on a perfboard following the schematic below:
+
+![schematics](misc/schematics.jpg)
+
+## Software 
+The software is coded in Simulink. You can find all the code in the [SimulinkFiles](SimulinkFiles) folder.
+
+[controlSystem.slx](SimulinkFiles/controlSystem.slx) has to be loaded onto the ESP32 board, [RemoteController.slx](SimulinkFiles/RemoteController.slx) will go on an Android device and is used to control the robot.
