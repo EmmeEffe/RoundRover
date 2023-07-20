@@ -56,4 +56,4 @@ The software is coded in Simulink. You can find all the code in the [SimulinkFil
 # Authors
 Designed and developed by [Lorenzo Cicali](https://www.github.com/Lorentz99), [Ginevra Dazzi](https://www.github.com/Gine99), [Tommaso Matteuzzi](https://www.github.com/tommasomatt) and [Martino Falorni](https://www.github.com/EmmeEffe)
 
-![authors.jpg]
+![authors](authors.jpg)
