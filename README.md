@@ -52,3 +52,8 @@ We have realized the circuit on a perfboard following the schematic below:
 The software is coded in Simulink. You can find all the code in the [SimulinkFiles](SimulinkFiles) folder.
 
 [controlSystem.slx](SimulinkFiles/controlSystem.slx) has to be loaded onto the ESP32 board, [RemoteController.slx](SimulinkFiles/RemoteController.slx) will go on an Android device and is used to control the robot.
+
+# Authors
+Designed and developed by [Lorenzo Cicali](https://www.github.com/Lorentz99), [Ginevra Dazzi](https://www.github.com/Gine99), [Tommaso Matteuzzi](https://www.github.com/tommasomatt) and [Martino Falorni](https://www.github.com/EmmeEffe)
+
+![authors.jpg]
