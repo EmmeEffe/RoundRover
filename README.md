@@ -6,6 +6,13 @@ Designed and developed by [Lorenzo Cicali](https://www.github.com/Lorentz99), [G
 ---
 ![rendering](rendering.png)
 
+## Goal
+The project has been realized for the Automation Control Laboratory exam at University of Florence.
+
+You can find the video of the project below: 
+
+[![Design of a Spherical Robot BB8 with Arduino and Simulink](http://img.youtube.com/vi/LbQrJQIPuXo/0.jpg)](http://www.youtube.com/watch?v=LbQrJQIPuXo "Design of a Spherical Robot BB8 with Arduino and Simulink")
+
 ## Printing
 You can use a 3D FDM Printer to print all the pieces for the project. 
 We have printed them in PLA.
